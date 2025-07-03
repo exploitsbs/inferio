@@ -1,0 +1,94 @@
+ 
+# Inferio Configuration
+# Advanced atmospheric horror experience
+
+# Entity Management
+entity:
+  spawn_chance: 0.025
+  max_concurrent: 3
+  min_interval: 120000
+  spawn_distance:
+    min: 15
+    max: 45
+  lifetime:
+    min: 400
+    max: 800
+
+# Atmosphere Engine
+atmosphere:
+  update_interval: 40
+  ambient_interval: 80
+  global_decay_rate: 5
+  intensity_levels: 5
+
+# Tension System
+tension:
+  global_decay: 5
+  player_decay: 20
+  max_tension: 100
+  decay_interval: 300000
+  amplification_multiplier: 1.5
+
+# Particle Effects
+particles:
+  density_multiplier: 1.0
+  range_multiplier: 1.0
+  cinematic_effects: true
+  ambient_particles: true
+
+# Audio System
+audio:
+  atmospheric_volume: 0.7
+  ambient_volume: 0.4
+  ritual_volume: 1.5
+  distance_falloff: true
+  echo_effects: true
+
+# Environmental Effects
+environment:
+  distortion_enabled: true
+  temperature_shifts: true
+  atmospheric_pressure: true
+  ground_disturbances: true
+  redstone_falter: true
+
+# Ritual System
+rituals:
+  awakening:
+    enabled: true
+    catalyst: CRYING_OBSIDIAN
+    duration: 60
+    cooldown: 1200
+  banishment:
+    enabled: true
+    catalyst: DIAMOND
+    duration: 40
+    cooldown: 600
+  amplification:
+    enabled: true
+    catalyst: WITHER_ROSE
+    duration: 80
+    cooldown: 1800
+
+# World Settings
+worlds:
+  enabled_worlds:
+    - world
+    - survival
+  night_bonus: true
+  underground_bonus: true
+  depth_threshold: 40
+
+# Performance
+performance:
+  max_particles_per_player: 50
+  max_sounds_per_second: 3
+  entity_cleanup_interval: 6000
+  memory_optimization: true
+
+# Debug
+debug:
+  enabled: false
+  log_entity_spawns: false
+  log_tension_changes: false
+  log_ritual_events: false
