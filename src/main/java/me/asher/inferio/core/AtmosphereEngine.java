@@ -2,7 +2,7 @@
 package me.asher.inferio.core;
 
 import me.asher.inferio.Inferio;
-import me.asher.inferio.effects.Audioscape;
+import me.asher.inferio.effects.AudioscapeManager;
 import me.asher.inferio.effects.ParticleWeaver;
 import me.asher.inferio.effects.EnvironmentalDistortion;
 import me.asher.inferio.utils.PlayerStateTracker;

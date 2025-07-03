@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\commands\InferioCommand.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\core\AtmosphereEngine.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\core\EntityManager.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\core\RitualSystem.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\effects\AudioscapeManager.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\effects\CinematicEffects.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\effects\EnvironmentalDistortion.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\effects\ParticleWeaver.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\effects\RitualEffects.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\entities\InferioEntity.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\Inferio.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\listeners\PlayerListener.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\listeners\RitualListener.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\utils\ConfigManager.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\utils\LocationCalculator.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\utils\PlayerStateTracker.java
+C:\Users\PC\Documents\moses\inferio\src\main\java\me\asher\inferio\utils\StructureValidator.java

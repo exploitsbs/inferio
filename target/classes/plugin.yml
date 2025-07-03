@@ -1,0 +1,20 @@
+ 
+name: Inferio
+main: me.asher.inferio.Inferio
+version: 2.0.0
+api-version: "1.21"
+author: Asher
+description: An advanced atmospheric horror experience bringing the legend to life
+depend: [FancyNpcs]
+commands:
+  inferio:
+    description: Inferio admin commands
+    usage: /inferio <reload|status|toggle>
+    permission: inferio.admin
+permissions:
+  inferio.admin:
+    description: Administrative control over Inferio
+    default: op
+  inferio.immune:
+    description: Immunity to Inferio effects
+    default: false
